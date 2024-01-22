@@ -1,0 +1,35 @@
+h1{
+   
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border-radius: 50px solid red !important;
+    text-align: center;
+
+}
+
+.boxid{
+    margin-left: 100px  ;
+}
+
+.name1{
+    margin-left: 200px ;
+}
+
+.surname1{
+    margin-left: 180px ;
+}
+
+.age1{
+    margin-left: 198px;
+}
+
+.mail1{ margin-left: 178px;}
+
+.year6{
+    margin-left: 118px;
+}
+
+.year10{ margin-left: 118px}
+
+.year15{
+    margin-right: 118px;
+}
